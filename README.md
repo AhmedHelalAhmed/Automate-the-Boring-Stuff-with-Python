@@ -5,3 +5,5 @@
 pip3 install pyperclip
 
 ## [Visualize code](http://pythontutor.com/visualize.html#mode=edit)
+
+## [Udemy course](https://www.udemy.com/course/automate/learn/lecture/3465822#overview)
