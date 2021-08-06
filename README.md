@@ -3,3 +3,5 @@
 # [Appendix A – Installing Third-Party Modules](https://automatetheboringstuff.com/appendixa/)
 
 pip3 install pyperclip
+
+# [Visualize code](pythontutor.com/visualize.html#mode=edit)
