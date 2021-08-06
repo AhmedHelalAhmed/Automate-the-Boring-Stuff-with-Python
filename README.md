@@ -1,7 +1,7 @@
-## [Automate the Boring Stuff with Python](https://automatetheboringstuff.com)
+# [Automate the Boring Stuff with Python](https://automatetheboringstuff.com)
 
-# [Appendix A – Installing Third-Party Modules](https://automatetheboringstuff.com/appendixa/)
+## [Appendix A – Installing Third-Party Modules](https://automatetheboringstuff.com/appendixa/)
 
 pip3 install pyperclip
 
-# [Visualize code](pythontutor.com/visualize.html#mode=edit)
+## [Visualize code](http://pythontutor.com/visualize.html#mode=edit)
